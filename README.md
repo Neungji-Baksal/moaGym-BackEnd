@@ -3,9 +3,9 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 
 ----
 ## 목차
-* 브랜드 정보 api(#브랜드-정보-api)
-* 모든 브랜드 api(#모든-브랜드-api)
-* 아이템 정보 api(#아이템-정보-api)
+* [브랜드 정보 api](#브랜드-정보-api)
+* [모든 브랜드 api](#모든-브랜드-api)
+* [아이템 정보 api](#아이템-정보-api)
 
 ----
 ## 브랜드 정보 api
