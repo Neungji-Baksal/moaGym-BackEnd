@@ -267,4 +267,4 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 |Name|Part|
 |:---:|:---:|
 |[김준호](https://github.com/junho0956/MoaGym)|Frontend|
-|[최상후](https://github.com/Neungji-Baksal)|Backend|
+|[최상후](https://github.com/Neungji-Baksal/moaGym-BackEnd)|Backend|
