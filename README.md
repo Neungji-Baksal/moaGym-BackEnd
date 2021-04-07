@@ -11,8 +11,8 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 * [아이템 정보 api](#아이템-정보-api)
 * [모든 아이템 api](#모든-아이템-api)
 * [브랜드에 해당하는 아이템 api](#브랜드에-해당하는-아이템-api)
-* [브랜드에 해당하는 아이템+리뷰 api](#브랜드에-해당하는-아이템+리뷰-api)
-* [아이템 아이디에 해당하는 아이템+리뷰 api](#아이템-아이디에-해당하는-아이템+리뷰-api)
+* [브랜드에 해당하는 아이템과 리뷰 api](#브랜드에-해당하는-아이템과-리뷰-api)
+* [아이템 아이디에 해당하는 아이템과 리뷰 api](#아이템-아이디에-해당하는-아이템과-리뷰-api)
 ----
 ## 브랜드 정보 api
 
@@ -155,7 +155,7 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 
 
 ----
-## 브랜드에 해당하는 아이템+리뷰 api
+## 브랜드에 해당하는 아이템과 리뷰 api
 * method : GET
 * 주소 : /api/v1/itemsByBrandWithReview/{brandName}
 * param
@@ -209,7 +209,7 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
       }
       
 ----
-## 아이템 아이디에 해당하는 아이템+리뷰 api
+## 아이템 아이디에 해당하는 아이템과 리뷰 api
 * method : GET
 * 주소 : /api/v1/itemsByItemIdWithReview/{itemId}
 * param
