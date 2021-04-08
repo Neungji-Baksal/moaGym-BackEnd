@@ -6,6 +6,9 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 ## Stack
 * Jsoup
 * Spring-Boot
+* MYSQL
+* AWS RDS
+* AWS Instance
 
 ----
 ## 목차
