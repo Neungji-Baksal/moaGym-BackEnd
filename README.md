@@ -265,8 +265,18 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 ----
 ## 스크린샷
 
+[ScreenShot link](https://docs.google.com/presentation/d/e/2PACX-1vR8DY5Q6CPZfP6FfyG8Kk9TZG6tBIDQ1gi-Bra23mQ8Mx_2p8-ulekvyrmu71sN0A/pub?start=false&loop=false&delayms=3000)
+
 ----
 ## 아쉬운점
+
+1. Jsoup 실력 부족
+ Jsoup을 처음 써봐 상품설명은 크롤링 하지 못했고 상품리뷰 또한 제대로 크롤링 하는법을 몰라 Api를 통해 리턴받은 Json파일을 긁어왔다.
+ 그래서 그런지 네이버 측에서 제한해놓은 갯수 까지만 반환 받을수 있어 모든 리뷰를 가져오지 못했다.
+ 
+2. 협업
+ 본 프로젝트는 백엔드 개발자의 부재로 디자이너와 프론트엔드 개발자가 더미데이터로 만든 프로젝트를 내가 인계받아 백엔드 서비스를 완성
+ 시킨것이다. 디자이너와 협업도 해보고 싶었는데 그러지 못해 아쉬움이 남는다.
 
 ----
 ## 함께한 사람
