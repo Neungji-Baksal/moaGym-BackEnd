@@ -8,7 +8,7 @@ see [postman link](https://documenter.postman.com/preview/12746129-ec58c104-16fe
 * Spring-Boot
 * MYSQL
 * AWS RDS
-* AWS Instance
+* AWS EC2
 
 ----
 ## 목차
